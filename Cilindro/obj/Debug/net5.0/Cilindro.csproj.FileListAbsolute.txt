@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/Cilindro.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/Cilindro.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/Cilindro.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/Cilindro.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/ref/Cilindro.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/bin/Debug/net5.0/Cilindro.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/ref/Cilindro.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Cilindro/obj/Debug/net5.0/Cilindro.genruntimeconfig.cache

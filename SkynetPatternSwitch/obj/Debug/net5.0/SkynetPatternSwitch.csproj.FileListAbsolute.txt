@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/SkynetPatternSwitch.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/SkynetPatternSwitch.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/SkynetPatternSwitch.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/SkynetPatternSwitch.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/ref/SkynetPatternSwitch.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/bin/Debug/net5.0/SkynetPatternSwitch.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/ref/SkynetPatternSwitch.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/SkynetPatternSwitch/obj/Debug/net5.0/SkynetPatternSwitch.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/Piramide.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/Piramide.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/Piramide.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/Piramide.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/ref/Piramide.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/bin/Debug/net5.0/Piramide.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/ref/Piramide.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula02/Piramide/obj/Debug/net5.0/Piramide.genruntimeconfig.cache
